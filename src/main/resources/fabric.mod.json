@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "ctpdyes",
+	"version": "${version}",
+	"name": "Catppuccin Dyes",
+	"description": "Adds Catppuccin flavoured dyes.",
+	"authors": [
+		"Scarce Koi"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/catppuccin-dyes",
+		"sources": "https://github.com/scarcekoi/CatppuccinDyes",
+		"issues": "https://github.com/scarcekoi/CatppuccinDyes/issues"
+	},
+	"license": "MIT License",
+	"icon": "assets/ctpdyes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.scarcekoi.ctpdyes.CatppuccinDyes"
+		],
+		"client": [
+			"dev.scarcekoi.ctpdyes.CatppuccinDyesClient"
+		],
+		"fabric-datagen": [
+			"dev.scarcekoi.ctpdyes.CatppuccinDyesDataGenerator"
+		]
+	},
+	"mixins": [
+		"ctpdyes.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": ">=0.92.3"
+	},
+	"credits": [
+		{
+			"name": "Catppuccin",
+			"description": "This mod uses Catppuccin colours.",
+			"url": "https://github.com/catppuccin"
+		}
+	]
+}
