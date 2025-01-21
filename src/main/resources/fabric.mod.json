@@ -41,5 +41,14 @@
 			"description": "This mod uses Catppuccin colours.",
 			"url": "https://github.com/catppuccin"
 		}
-	]
+	],
+	"custom": {
+		"ctpdyes": {
+			"links": {
+				"ctpdyes.discord": "https://discord.gg/jEGF5fb"
+			},
+			"badges": [ "library", "deprecated" ],
+			"update_checker": true
+		}
+	}
 }

@@ -3,7 +3,7 @@
 	"package": "dev.scarcekoi.ctpdyes.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-      "ExampleMixin"
+      "DyeColourMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
