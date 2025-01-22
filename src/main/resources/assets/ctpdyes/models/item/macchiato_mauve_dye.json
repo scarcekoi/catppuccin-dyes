@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ctpdyes:item/mocha_mauve_dye"
+    "layer0": "ctpdyes:item/macchiato_mauve_dye"
   }
 }

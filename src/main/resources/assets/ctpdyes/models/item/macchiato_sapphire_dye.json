@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ctpdyes:item/mocha_sapphire_dye"
+    "layer0": "ctpdyes:item/macchiato_sapphire_dye"
   }
 }

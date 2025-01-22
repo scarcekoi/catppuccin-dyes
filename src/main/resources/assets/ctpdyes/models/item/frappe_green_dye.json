@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ctpdyes:item/mocha_green_dye"
+    "layer0": "ctpdyes:item/frappe_green_dye"
   }
 }
