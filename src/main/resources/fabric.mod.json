@@ -45,9 +45,9 @@
 	"custom": {
 		"ctpdyes": {
 			"links": {
-				"ctpdyes.discord": "https://discord.gg/jEGF5fb"
+				"modmenu.discord": "https://discord.gg/aJB6PnzAZB",
+				"modmenu.modrinth": "https://modrinth.com/mod/catppuccin-dyes"
 			},
-			"badges": [ "library", "deprecated" ],
 			"update_checker": true
 		}
 	}

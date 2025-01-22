@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ctpdyes:item/mocha_rosewater_dye"
+  }
+}
